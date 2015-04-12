@@ -1,0 +1,16 @@
+{
+  "name": "DCDriverAssist",
+  "version": "0.0.0",
+  "description": "Haptic feedback to improve your driving. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "ws": "^0.7.1",
+    "express": "^4.12.3",
+    "mongoose": "^4.0.1"
+  }
+}

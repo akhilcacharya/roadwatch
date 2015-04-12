@@ -1,0 +1,129 @@
+﻿X,Y,OBJECTID,SPEED_LIMIT,ADDRESS,DIRECTION,TYPE
+-76.922520373929586,38.889837123498523,1,0,5500 Block of East Capitol Street SE,West Bound,Portable or Vehicle-Based
+-76.922520508140309,38.889713535822146,2,0,5500 Block of East Capitol Street SE,East Bound,Portable or Vehicle-Based
+-76.919054241264561,38.900496683445184,3,0,800 Block of Eastern Avenue NE,West Bound,Portable or Vehicle-Based
+-76.91910851323388,38.900444582431888,4,0,800 Block of Eastern Avenue NE,East Bound,Portable or Vehicle-Based
+-76.962562511945336,38.877585144815811,5,25,3100 Block of Minnesota Avenue SE,Southwest Bound,Portable or Vehicle-Based
+-76.964206821585833,38.876703960742702,6,25,3000 Block of Minnesota Avenue SE,Northeast Bound,Portable or Vehicle-Based
+-76.95137215114849,38.873956665855502,7,25,3700 Block of Massachusetts Avenue SE,Southeast Bound,Portable or Vehicle-Based
+-76.948721740920945,38.864505205574552,8,30,3900 Block of Pennsylvania Avenue SE,Southeast Bound,Portable or Vehicle-Based
+-76.942162637270187,38.882849030475931,9,25,4300 Block of Texas Avenue SE,South Bound,Portable or Vehicle-Based
+-76.938821537984069,38.889058450032685,10,25,4800 Block of Texas Avenue SE,North Bound,Portable or Vehicle-Based
+-76.928386785257459,38.903536985227554,11,30,5000 Block of Sheriff Road NE,West Bound,Portable or Vehicle-Based
+-76.983918657483841,38.845837815409233,12,0,1400 Block of Alabama Avenue SE,East Bound,Portable or Vehicle-Based
+-76.983938769314818,38.845888913169908,13,0,1400 Block of Alabama Avenue SE,West Bound,Portable or Vehicle-Based
+-76.974175379700114,38.842436065520367,14,0,1900 Block of Southern Avenue SE,West Bound,Portable or Vehicle-Based
+-76.995884377434351,38.850684377657686,15,0,2700 Block of Martin Luther King Jr Avenue SE,North Bound,Portable or Vehicle-Based
+-77.007801695894727,38.850653823667606,16,0,2800 Block of South Capitol Street SE,North Bound,Portable or Vehicle-Based
+-77.0045115597012,38.839959567482445,17,0,3500 Block of Martin Luther King Jr Avenue SE,North Bound,Portable or Vehicle-Based
+-77.004589433811361,38.839992784013511,18,0,3500 Block of Martin Luther King Jr Avenue SE,South Bound,Portable or Vehicle-Based
+-77.017446095691454,38.818907923404197,19,0,DC 295 .3 miles South of Exit 1 SW,North Bound,Portable or Vehicle-Based
+-77.020491944242991,38.813665739764794,20,0,DC 295 .7 miles South of Exit 1 SW,South Bound,Portable or Vehicle-Based
+-76.986833836363388,38.869768561442214,21,0,DC 295 .75 miles South of Pennsylvania Avenue SE,Northeast Bound,Portable or Vehicle-Based
+-76.986916858212794,38.869913998903961,22,0,DC 295 .75 miles South of Pennsylvania Avenue SE,Southwest Bound,Portable or Vehicle-Based
+-76.951686057994394,38.895734121599219,23,0,DC 295 at Benning Road overpass NE,North Bound,Portable or Vehicle-Based
+-77.016900059492926,38.822906215596646,24,0,DC 295 at Exit 1 SW,South Bound,Portable or Vehicle-Based
+-77.007174900967911,38.845369862221574,25,0,DC 295 at Exit 2 SE,North Bound,Portable or Vehicle-Based
+-76.976060004332965,38.88762863557028,26,25,1900 Block of Independence Avenue SE,East Bound,Portable or Vehicle-Based
+-77.042172964752126,38.962138143047198,27,35,"Military Road NW, .2 miles West of the 16th Street ramp NW",Southwest Bound,Portable or Vehicle-Based
+-77.036561093436518,38.962609947275126,28,35,"Military Road NW, .1 miles prior to 17th Street NW",Northeast Bound,Portable or Vehicle-Based
+-76.979945104388463,38.927376716134049,29,30,1700 Block of Rhode Island Avenue NE,Northeast Bound,Portable or Vehicle-Based
+-76.978073476297027,38.928067225865306,30,30,1800 Block of Rhode Island Avenue NE,Southwest Bound,Portable or Vehicle-Based
+-76.945901013711989,38.889845426352252,31,35,4000 Block of East Capitol Street NE,West Bound,Portable or Vehicle-Based
+-76.945902856057117,38.889715678633188,32,35,4000 Block of East Capitol Street SE,East Bound,Portable or Vehicle-Based
+-76.943160198291466,38.877144513432782,33,25,800 Block of Ridge Road SE,Southeast Bound,Portable or Vehicle-Based
+-76.997531145523823,38.824230011825712,34,30,600 Block of Southern Avenue SE,Southwest Bound,Portable or Vehicle-Based
+-76.981033572291366,38.837117374624938,35,30,1400 Block of Southern Avenue SE,Southwest Bound,Portable or Vehicle-Based
+-76.959779760852754,38.866315717142633,36,25,1900 Block of Branch Avenue SE,North Bound,Portable or Vehicle-Based
+-76.959851564236175,38.866253400023389,37,25,1900 Block of Branch Avenue SE,South Bound,Portable or Vehicle-Based
+-76.980617008760348,38.904493488261991,38,30,1100 Block of Bladensburg Road NE,Southwest Bound,Portable or Vehicle-Based
+-76.980441468415421,38.9045433319558,39,30,1100 Block of Bladensburg Road NE,Northeast Bound,Portable or Vehicle-Based
+-76.977228512696826,38.88650589250787,40,25,200 Block of 19th Street SE,North Bound,Portable or Vehicle-Based
+-77.06839195617323,38.952694974159058,41,30,4800 Block of Connecticut Avenue NW,Northwest Bound,Portable or Vehicle-Based
+-77.06933569624249,38.954055895284831,42,30,4900 Block of Connecticut Avenue NW,Southeast Bound,Portable or Vehicle-Based
+-77.021744679918342,38.958964729854969,43,30,600 Block of Missouri Avenue NW,Northwest Bound,Portable or Vehicle-Based
+-77.021826262182444,38.958931185906501,44,30,600 Block of Missouri Avenue NW,Southeast Bound,Portable or Vehicle-Based
+-76.978142252075756,38.893250128847527,45,0,1800 Block of C Street NE,East Bound,Portable or Vehicle-Based
+-76.979872410847875,38.893396202400616,46,0,1700 Block of C Street NE,West Bound,Portable or Vehicle-Based
+-77.013929507353026,38.895954752433681,47,0,3rd Street Tunnel NW at Massachusetts Avenue Exit,North Bound,Fixed
+-77.014312354616891,38.899219473392165,48,0,3rd Street Tunnel NW at 3rd Street Exit,South Bound,Fixed
+-77.092279376145171,38.913883606190716,49,0,"4700 MacArthur Boulevard NW
+4700 Block of MacArthur Boulevard NW",South Bound,Fixed
+-77.036464477625728,38.95575290560766,50,0,5400 Block of 16th Street NW,South Bound,Fixed
+-76.997294270283533,38.90583626217618,51,0,600 Block of Florida Avenue NE,Northwest Bound,Fixed
+-76.994617987691527,38.912417405545405,52,0,600 Block of New York Avenue NE,West Bound,Fixed
+-77.004839552578787,38.928301748783568,53,0,100 Block of Michigan Avenue NE,East Bound,Fixed
+-77.005006424393983,38.928295224236585,54,0,100 Block of Michigan Avenue NE,West Bound,Fixed
+-76.955845274948317,38.896344869364619,55,0,3400 Block of Benning Road NE,West Bound,Fixed
+-76.965196342753146,38.897269205137803,56,0,2800 Block of Benning Road NE,East Bound,Fixed
+-76.934188195434913,38.912296144708108,57,0,I-295 at Eastern Avenue NE,South Bound,Work Zone
+-76.934124282791018,38.912145982860338,58,0,I-295 at Eastern Avenue NE,North Bound,Work Zone
+-77.002900164710027,38.876442317346189,59,0,200 Block of M Street SE,East Bound,Portable or Vehicle-Based
+-77.023293086328323,38.882639135895211,60,40,Southwest Freeway SW @ Exit 4,West Bound,Portable or Vehicle-Based
+-77.024665670754899,38.882233292808344,61,40,I-395 SW after Exit 4,East Bound,Portable or Vehicle-Based
+-76.993112160150574,38.878444188052221,62,0,Southeast/Southwest Freeway at 8th Street Exit Ramp,West Bound,Portable or Vehicle-Based
+-76.992866998289401,38.878133871077168,63,0,Southeast/Southwest Freeway at 9th Street Entrance Ramp,East Bound,Portable or Vehicle-Based
+-77.031902781948787,38.884238400704369,64,35,400 Block of 14th Street SW,North Bound,Portable or Vehicle-Based
+-76.980802566098575,38.892500278192507,65,25,200 Block of 17th Street NE,South Bound,Portable or Vehicle-Based
+-77.023745169902426,38.879547076924723,66,25,800 Block of Maine Avenue SW,Northwest Bound,Portable or Vehicle-Based
+-77.017608676598911,38.874048818061013,67,25,1300 Block of 4th Street SW,South Bound,Portable or Vehicle-Based
+-77.024011632565532,38.890667387324022,68,35,9th Street Tunnel NW,South Bound,Portable or Vehicle-Based
+-77.091101801417551,38.930827132303961,69,25,3000 Block of Foxhall Road NW,South Bound,Portable or Vehicle-Based
+-77.087594081857432,38.914930804502823,70,0,1900 Block of Foxhall Road NW,South Bound,Portable or Vehicle-Based
+-77.087548268437757,38.914986235624887,71,0,1900 Block of Foxhall Road NW,North Bound,Portable or Vehicle-Based
+-77.048937827646483,38.919014037936904,72,0,2300 block of Connecticut Avenue NW,South Bound,Portable or Vehicle-Based
+-77.051750101323407,38.933856777910762,73,0,2300 Block of Porter Street NW,East Bound,Portable or Vehicle-Based
+-77.051562381054467,38.933892705827212,74,0,2300 Block of Porter Street NW,West Bound,Portable or Vehicle-Based
+-77.05682295772678,38.92320633854623,75,0,2800 Block of Calvert Street NW,East Bound,Portable or Vehicle-Based
+-77.058108955050884,38.961020955731932,76,0,2800 Block of Military Road NW,West Bound,Portable or Vehicle-Based
+-77.100384264493186,38.929619239317333,77,0,2900 Block of Arizona Avenue NW,South Bound,Portable or Vehicle-Based
+-77.069083995253109,38.925580040281737,78,0,3500 Block of Massachusetts Avenue NW,East Bound,Portable or Vehicle-Based
+-77.097540570034923,38.951537991365846,79,0,4700 Block of Western Avenue NW,Northeast Bound,Portable or Vehicle-Based
+-77.068486965385858,38.952597408476564,80,0,4800 Block of Connecticut Avenue NW,Southeast Bound,Portable or Vehicle-Based
+-77.100469962833145,38.923627977665127,81,0,5000 Block of MacArthur Boulevard NW,South Bound,Portable or Vehicle-Based
+-77.109886555241772,38.933550050526854,82,0,5700 Block of MacArthur Boulevard NW,North Bound,Portable or Vehicle-Based
+-77.11007188388551,38.933486151342755,83,0,5700 Block of MacArthur Boulevard NW,South Bound,Portable or Vehicle-Based
+-77.102963003424051,38.921867440511711,84,0,Canal Road NW .3 miles South of Arizona Avenue NW,North Bound,Portable or Vehicle-Based
+-77.103006366790183,38.921835105631217,85,0,Canal Road NW .3 miles South of Arizona Avenue NW,South Bound,Portable or Vehicle-Based
+-77.025407457987399,38.922293782919013,86,0,2400 Block of Sherman Avenue NW,South Bound,Portable or Vehicle-Based
+-77.019083461566467,38.933655121545499,87,0,3500 Block of Park Place NW,South Bound,Portable or Vehicle-Based
+-77.042324914879771,38.927476708534748,88,25,1800 Block of Harvard Street NW,Northwest Bound,Portable or Vehicle-Based
+-77.026608235894173,38.982368283111185,89,30,7600 Block of Georgia Avenue NW,South Bound,Portable or Vehicle-Based
+-77.027086734153869,38.948897608846359,90,30,4800 Block of Georgia Avenue NW,South Bound,Portable or Vehicle-Based
+-77.041173525412603,38.988752760077816,91,25,1700 Block of North Portal Drive NW,Southwest Bound,Portable or Vehicle-Based
+-77.015786727773062,38.939345489690439,92,0,300 Block of Rock Creek Church Road NW,Southwest Bound,Portable or Vehicle-Based
+-77.008566728575701,38.928734772652653,93,0,3100 Block of North Capitol Street NW,South Bound,Portable or Vehicle-Based
+-77.008438217343681,38.928689155800349,94,0,3100 Block of North Capitol Street NW,North Bound,Portable or Vehicle-Based
+-77.033469579050205,38.953503371003123,95,0,5200 Block of 14th Street NW,South Bound,Portable or Vehicle-Based
+-77.006018896738098,38.961076071919337,96,0,5800 Block of New Hampshire Avenue NE,Southwest Bound,Portable or Vehicle-Based
+-77.005076637590534,38.962176803874023,97,0,5900 Block of New Hampshire Avenue NE,Northeast Bound,Portable or Vehicle-Based
+-77.013235500100564,38.966732974941614,98,0,6300 Block of Blair Road NW,South Bound,Portable or Vehicle-Based
+-77.036280301763412,38.984688823361843,99,0,7700 Block of 16th Street NW,North Bound,Portable or Vehicle-Based
+-77.01275483505971,38.912343326757195,100,0,100 Block of Florida Avenue NW,East Bound,Portable or Vehicle-Based
+-77.012710355114123,38.912395470076447,101,0,100 Block of Florida Avenue NW,West Bound,Portable or Vehicle-Based
+-76.991023926970129,38.938138582834135,102,0,1100 Block of Michigan Avenue NE,West Bound,Portable or Vehicle-Based
+-76.970145035378692,38.917435209336581,103,0,2700 Block of New York Avenue NE,West Bound,Portable or Vehicle-Based
+-76.965121525970346,38.917090933811494,104,0,2800 Block of New York Avenue NE,East Bound,Portable or Vehicle-Based
+-76.96638473730448,38.937474170675209,105,0,3800 Block of Eastern Avenue NE,Southeast Bound,Portable or Vehicle-Based
+-76.980816612817804,38.940127945314586,106,0,4100 Block of South Dakota Avenue NE,South Bound,Portable or Vehicle-Based
+-76.982246000825157,38.941588864819749,107,0,4200 Block of South Dakota Avenue NE,North Bound,Portable or Vehicle-Based
+-76.964044687058504,38.926186664058058,108,30,2800 Block of Bladensburg Road NE,Southwest Bound,Portable or Vehicle-Based
+-76.959754194770255,38.929316211660918,109,30,3100 Block of Bladensburg Road NE,Northeast Bound,Portable or Vehicle-Based
+-76.958226106486038,38.920446658120198,110,25,2200 Block of South Dakota Avenue NE,Southeast Bound,Portable or Vehicle-Based
+-76.955365505730782,38.918599773158846,111,25,"South Dakota Avenue NE west bound, prior to V Street",West Bound,Portable or Vehicle-Based
+-76.997870201013257,38.86248682054066,112,0,Suitland Parkway at Firth Sterling Avenue SE,Northwest Bound,Portable or Vehicle-Based
+-76.986980635366933,38.852793063867281,113,0,Suitland Parkway SE .2 mi South of Stanton Road SE,West Bound,Portable or Vehicle-Based
+-76.993723288828022,38.859103260473908,114,0,Suitland Parkway SE .9 mi South of Stanton Road SE,East Bount,Portable or Vehicle-Based
+-76.994300045673057,38.925625177398402,115,25,700 Block of Franklin Street NE,West Bound,Portable or Vehicle-Based
+-76.984120400544853,38.91594340745575,116,35,1400 Block of New York Avenue NE,Northeast Bound,Portable or Vehicle-Based
+-76.989027671296625,38.907547590939373,117,25,1500 Block of West Virginia Avenue NE,Northeast Bound,Portable or Vehicle-Based
+-76.981583374131347,38.914270572785831,118,25,2000 Block of West Virginia Avenue NE,Southwest Bound,Portable or Vehicle-Based
+-76.957956305669583,38.882936267049942,119,0,3300 Block of Minnesota Avenue SE,Northeast Bound,Portable or Vehicle-Based
+-76.954601749624985,38.864396556878575,120,0,3600 Block of Alabama Avenue SE,Northeast Bound,Portable or Vehicle-Based
+-76.951403794232206,38.860173721255656,121,0,3700 Block of Southern Avenue SE,Southwest Bound,Portable or Vehicle-Based
+-76.942161353760497,38.871088189926262,122,0,4100 Block of Alabama Avenue SE,West Bound,Portable or Vehicle-Based
+-77.007718401886933,38.828504391512702,123,0,4200 Block of South Capitol Street SW,South Bound,Portable or Vehicle-Based
+-76.927411242212031,38.878876745274482,124,0,5200 Block of Southern Avenue SE,Southeast Bound,Portable or Vehicle-Based
+-76.944823594083744,38.90151154831684,125,45,I-295 at Nanie Helen Burroughs Avenue NE,Southwest Bound,Portable or Vehicle-Based
+-77.048156305723765,38.902531502889701,126,25,2200 Block of K Street SW,West Bound,Portable or Vehicle-Based
+-77.000708798879742,38.9591819303878,127,25,400 Block of Riggs Road NE,North Bound,Portable or Vehicle-Based
