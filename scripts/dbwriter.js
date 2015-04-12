@@ -2,6 +2,8 @@ var mongoose = require('mongoose');
 
 var path = "../data/";
 
+var fs = require('fs'); 
+
 var csv = require('./csvreader');
 
 require("../db/db.js")
@@ -56,7 +58,33 @@ detector.forEach(function(detector) {
         address: detector.roaddir + " " + detector.roadname,
     });
 
-    newD.save(function(err){
+    newD.save();
+});
+
+/*
+var redlightFile = fs.readFileSync(path + "Red_Light_Cameras.csv")
+var redLightFileLines = redLightFile.split("\n"); 
+var _keys = redLightFileLines[0].split(",");
+
+var keys = []; 
+for(var i = 0; i < _keys.length - 2; i++){
+	keys.push(_keys[i]); 
+}*/
+
+
+var redlight = csv(path + "Red_Light_Cameras.csv"); 
+redlight.forEach(function(redlight) {	
+	var newR = new TrafficIncident({
+		type: 3, 
+        id: (redlight.objectid * 31), 
+        loc: {
+            type: "Point",
+            coordinates: [Number(redlight.x), Number(redlight.y)]
+        },
+        address: redlight.location,
+    });
+
+    newR.save(function(err){
 		if(err){
 			console.log(err)
 		}
