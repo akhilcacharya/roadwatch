@@ -1,0 +1,51 @@
+X,Y,OBJECTID,GIS_ID,WEB_URL,LOCATION,DIRECTION,ADDRID
+-77.028139705854329,38.892093178749114,1,red_0,"http://mpdc.dc.gov/mpdc/cwp/view,a,1240,q,548257,mpdcNav_GID,1552,mpdcNav,|31885|.asp",12th St and Constitution Ave NW,N/B,17878,397558.9812,136027.0935
+-77.031953032175736,38.917005578374315,2,red_1,"http://mpdc.dc.gov/mpdc/cwp/view,a,1240,q,548257,mpdcNav_GID,1552,mpdcNav,|31885|.asp",14th St and U St NW,S/B,15843,397229.13,138792.68
+-77.036453750996486,38.934974234046265,3,red_2,"http://mpdc.dc.gov/mpdc/cwp/view,a,1240,q,548257,mpdcNav_GID,1552,mpdcNav,|31885|.asp",16th St and Oak St NW,N/B,14257,396839.61,140787.5
+-77.036417192655236,38.952542595558363,4,red_3,"http://mpdc.dc.gov/mpdc/cwp/view,a,1240,q,548257,mpdcNav_GID,1552,mpdcNav,|31885|.asp",16th St and Colorado Ave NW,S/B,16137,396843.5577,142737.743
+-77.036478796192711,38.928695165130215,5,red_4,"http://mpdc.dc.gov/mpdc/cwp/view,a,1240,q,548257,mpdcNav_GID,1552,mpdcNav,|31885|.asp",16th St and Irving St NW,S/B,15334,396837.16,140090.47
+-77.031959568926908,38.885975385494348,6,red_5,"http://mpdc.dc.gov/mpdc/cwp/view,a,1240,q,548257,mpdcNav_GID,1552,mpdcNav,|31885|.asp",14th St and C St SW,N/B,13936,397227.3571,135348.08
+-76.95900176978283,38.861930669725432,7,red_6,"http://mpdc.dc.gov/mpdc/cwp/view,a,1240,q,548257,mpdcNav_GID,1552,mpdcNav,|31885|.asp",Branch Ave SE and Alabama Ave SE,N/B,18237,403558.44,132679.25
+-76.937545205432357,38.889779411531727,8,red_7,"http://mpdc.dc.gov/mpdc/cwp/view,a,1240,q,548257,mpdcNav_GID,1552,mpdcNav,|31885|.asp",East Capitol St and Benning Rd NE,W/B,16684,405418.543,135771.7243
+-76.913388356756556,38.889757714392594,9,red_8,"http://mpdc.dc.gov/mpdc/cwp/view,a,1240,q,548257,mpdcNav_GID,1552,mpdcNav,|31885|.asp",East Capitol St and Southern Ave NE, ,15979,407514.3028,135771.0268
+-76.938228576900727,38.889784075508345,10,red_9,"http://mpdc.dc.gov/mpdc/cwp/view,a,1240,q,548257,mpdcNav_GID,1552,mpdcNav,|31885|.asp",East Capitol St and Texas Ave SE,E/B,16683,405359.2559,135772.2017
+-76.949162613684322,38.895140836941295,11,red_10,"http://mpdc.dc.gov/mpdc/cwp/view,a,1240,q,548257,mpdcNav_GID,1552,mpdcNav,|31885|.asp",Benning Rd and Minnesota Ave NE,W/B,17410,404410.3287,136366.2591
+-76.970650294899656,38.873471382644333,12,red_11,"http://mpdc.dc.gov/mpdc/cwp/view,a,1240,q,548257,mpdcNav_GID,1552,mpdcNav,|31885|.asp",Pennsylvania Ave and Minnesota Ave SE,W/B,17410,402547.0511,133959.9646
+-76.946761515234101,38.863749776915149,13,red_12,"http://mpdc.dc.gov/mpdc/cwp/view,a,1240,q,548257,mpdcNav_GID,1552,mpdcNav,|31885|.asp",Pennsylvania Ave and Southern Ave SE,E/B,15850,404620.6555,132881.7324
+-77.009060580283133,38.879293376910439,14,red_13,"http://mpdc.dc.gov/mpdc/cwp/view,a,1240,q,548257,mpdcNav_GID,1552,mpdcNav,|31885|.asp",South Capitol St Ramp before I St SW,S/B,906,399214.0203,134605.8795
+-77.033655296649513,38.892097303118156,15,red_14,"http://mpdc.dc.gov/mpdc/cwp/view,a,1240,q,548257,mpdcNav_GID,1552,mpdcNav,|31885|.asp",Constitution Ave and 15th St NW,W/B,14103,397080.4848,136027.7133
+-77.070413262507088,38.95604107212111,16,red_15,"http://mpdc.dc.gov/mpdc/cwp/view,a,1240,q,548257,mpdcNav_GID,1552,mpdcNav,|31885|.asp",Connecticut Ave and Nebraska Ave NW, ,19212,393897.08,143127.83
+-77.073311588306979,38.961025184616169,17,red_16,"http://mpdc.dc.gov/mpdc/cwp/view,a,1240,q,548257,mpdcNav_GID,1552,mpdcNav,|31885|.asp",Connecticut Ave and Military Rd NW,N/B,17203,393646.31,143681.31
+-77.004595078221243,38.908904879760186,18,red_17,"http://mpdc.dc.gov/mpdc/cwp/view,a,1240,q,548257,mpdcNav_GID,1552,mpdcNav,|31885|.asp",New York Ave and Florida Ave NE,W/B,17130,399601.6531,137892.9606
+-77.014778132760895,38.905369264664046,19,red_18,"http://mpdc.dc.gov/mpdc/cwp/view,a,1240,q,548257,mpdcNav_GID,1552,mpdcNav,|31885|.asp",New York Ave and New Jersey Ave NW,W/B,14274,398718.3825,137500.5723
+-76.985775553587018,38.910482090903926,20,red_19,"http://mpdc.dc.gov/mpdc/cwp/view,a,1240,q,548257,mpdcNav_GID,1552,mpdcNav,|31885|.asp",Mount Olivet Rd and West Virginia Ave NE,E/B,13147,401233.9,138068.13
+-76.972441654890787,38.917336416995411,21,red_20,"http://mpdc.dc.gov/mpdc/cwp/view,a,1240,q,548257,mpdcNav_GID,1552,mpdcNav,|31885|.asp",New York Ave and Bladensburg Rd NE,W/B,15366,402390.134,138829.2815
+-77.009009312740403,38.952414931671896,22,red_21,"http://mpdc.dc.gov/mpdc/cwp/view,a,1240,q,548257,mpdcNav_GID,1552,mpdcNav,|31885|.asp",North Capitol St and Gallatin St NW,S/B,14588,399219.27,142722.98
+-77.008036284364152,38.942388574451236,23,red_22,"http://mpdc.dc.gov/mpdc/cwp/view,a,1240,q,548257,mpdcNav_GID,1552,mpdcNav,|31885|.asp",North Capitol St and Harewood Rd NW,N/B,19189,399303.5142,141609.9565
+-77.012157758270206,38.915733207083314,24,red_23,"http://mpdc.dc.gov/mpdc/cwp/view,a,1240,q,548257,mpdcNav_GID,1552,mpdcNav,|31885|.asp",Rhode Island Ave and 1st St NW,W/B,15791,398945.82,138651.0214
+-76.965164187292146,38.925176212099622,25,red_24,"http://mpdc.dc.gov/mpdc/cwp/view,a,1240,q,548257,mpdcNav_GID,1552,mpdcNav,|31885|.asp",South Dakota Ave and Bladensburg Rd NE,S/B,16048,403020.924,139699.7804
+-76.993864394919314,38.921998058444693,26,red_25,"http://mpdc.dc.gov/mpdc/cwp/view,a,1240,q,548257,mpdcNav_GID,1552,mpdcNav,|31885|.asp",Rhode Island Ave and Reed St NE,W/B,11181,400532.26,139346.42
+-77.028033039820855,38.961021564837473,27,red_26,"http://mpdc.dc.gov/mpdc/cwp/view,a,1240,q,548257,mpdcNav_GID,1552,mpdcNav,|31885|.asp",Georgia Ave and Missouri Ave NW,S/B,18424,397570.5847,143678.7298
+-77.015180294914884,38.887574066067707,28,red_27,"http://mpdc.dc.gov/mpdc/cwp/view,a,1240,q,548257,mpdcNav_GID,1552,mpdcNav,|31885|.asp",Independence Ave and 3rd St SW,E/B,15503,398683.1715,135525.17
+-77.013809001676066,38.887569898726831,29,red_28,"http://mpdc.dc.gov/mpdc/cwp/view,a,1240,q,548257,mpdcNav_GID,1552,mpdcNav,|31885|.asp",Independence Ave and Washington Ave SW,E/B,13088,398802.1434,135524.6885
+-77.053308286545672,38.902536261454692,30,red_29,"http://mpdc.dc.gov/mpdc/cwp/view,a,1240,q,548257,mpdcNav_GID,1552,mpdcNav,|31885|.asp",K St and 25th St NW,W/B,16394,395376.1969,137187.3325
+-77.05610802110904,38.902538734759133,31,red_30,"http://mpdc.dc.gov/mpdc/cwp/view,a,1240,q,548257,mpdcNav_GID,1552,mpdcNav,|31885|.asp",K St and 27th St NW, ,130,395133.346,137187.7526
+-76.997741564464334,38.862376412744425,32,red_31,"http://mpdc.dc.gov/mpdc/cwp/view,a,1240,q,548257,mpdcNav_GID,1552,mpdcNav,|31885|.asp",Suitland Pkwy and Firth Stirling Ave SE,E/B,19229,400196.2067,132727.9342
+-77.080400832095521,38.949692534732144,33,red_32,"http://mpdc.dc.gov/mpdc/cwp/view,a,1240,q,548257,mpdcNav_GID,1552,mpdcNav,|31885|.asp",Wisconsin Ave and Brandywine St NW,N/B,13633,393030.78,142423.8
+-77.051515732727225,38.923537286310626,34,red_33,"http://mpdc.dc.gov/mpdc/cwp/view,a,1240,q,548257,mpdcNav_GID,1552,mpdcNav,|31885|.asp",Connecticut Ave and Calvert Street NW, ,16064,395533,139518.53
+-77.033426932122026,38.962049783634896,35,red_34,"http://mpdc.dc.gov/mpdc/cwp/view,a,1240,q,548257,mpdcNav_GID,1552,mpdcNav,|31885|.asp",Military Rd and 14th St NW,W/B,614,397103.1398,143793.029
+-76.978530212254611,38.917224736902426,36,red_35,"http://mpdc.dc.gov/mpdc/cwp/view,a,1240,q,548257,mpdcNav_GID,1552,mpdcNav,|31885|.asp",New York Ave and Montana Ave NE,W/B,891,401862.1204,138816.7423
+-77.00904784743183,38.907343219118012,37,red_36,"http://mpdc.dc.gov/mpdc/cwp/view,a,1240,q,548257,mpdcNav_GID,1552,mpdcNav,|31885|.asp",New York Ave and North Capitol St NW,W/B,19170,399215.4338,137719.6324
+-76.968971109841647,38.872788430517211,38,red_37,"http://mpdc.dc.gov/mpdc/cwp/view,a,1240,q,548257,mpdcNav_GID,1552,mpdcNav,|31885|.asp",Pennsylvania Ave and 27th St SE,E/B,15055,402692.79,133884.2
+-77.009053179677039,38.910802555831971,39,red_38,"http://mpdc.dc.gov/mpdc/cwp/view,a,1240,q,548257,mpdcNav_GID,1552,mpdcNav,|31885|.asp",Florida Ave and North Capitol St NW,E/B,18720,399215.0094,138103.6471
+-77.071561027896976,38.954700485217508,40,red_39,"http://mpdc.dc.gov/mpdc/cwp/view,a,1240,q,548257,mpdcNav_GID,1552,mpdcNav,|31885|.asp",Nebraska Ave and Fessenden St NW,NE/B,14947,393797.48,142979.09
+-77.009065541680897,38.900215670064199,41,red_40,"http://mpdc.dc.gov/mpdc/cwp/view,a,1240,q,548257,mpdcNav_GID,1552,mpdcNav,|31885|.asp",North Capitol St and H st NW,S/B,17977,399213.8205,136928.4171
+-77.016182522528666,38.904886570498768,42,red_41,"http://mpdc.dc.gov/mpdc/cwp/view,a,1240,q,548257,mpdcNav_GID,1552,mpdcNav,|31885|.asp",New York Ave and 4th St NW,W/B,18551,398596.56,137447.01
+-77.009048381719879,38.954823109440646,43,red_42,"http://mpdc.dc.gov/mpdc/cwp/view,a,1240,q,548257,mpdcNav_GID,1552,mpdcNav,|31885|.asp",North Capitol St and  Riggs Ave NE,N/B,15833,399215.91,142990.31
+-76.972441654890787,38.917336416995411,44,red_43,"http://mpdc.dc.gov/mpdc/cwp/view,a,1240,q,548257,mpdcNav_GID,1552,mpdcNav,|31885|.asp",New York Ave and Bladensburg Rd NE,E/B,15366,402390.134,138829.2815
+-77.07023112926926,38.905030892768529,45,red_44,"http://mpdc.dc.gov/mpdc/cwp/view,a,1240,q,548257,mpdcNav_GID,1552,mpdcNav,|31885|.asp",M Street and Whitehurst Frwy NW,W/B,17267,393908.51,137465.2499
+-76.972441654890787,38.917336416995411,46,red_46,"http://mpdc.dc.gov/mpdc/cwp/view,a,1240,q,548257,mpdcNav_GID,1552,mpdcNav,|31885|.asp",New York Ave and Bladensburg Rd NE,N/B,15366,402390.134,138829.2815
+-76.983304906110433,38.853305123752008,47,red_48,"http://mpdc.dc.gov/mpdc/cwp/view,a,1240,q,548257,mpdcNav_GID,1552,mpdcNav,|31885|.asp",Suitland Parkway and Stanton Rd SE,W/B,13830,401449.3426,131721.086
+-77.059251984361637,38.936824267459436,48,red_49,"http://mpdc.dc.gov/mpdc/cwp/view,a,1240,q,548257,mpdcNav_GID,1552,mpdcNav,|31885|.asp",Connecticut Avenue at Porter Street NW,S/B,16313,394863.1067,140993.906
+-77.031971124089409,38.902519626874358,49,red_50,"http://mpdc.dc.gov/mpdc/cwp/view,a,1240,q,548257,mpdcNav_GID,1552,mpdcNav,|31885|.asp",14th St and K Street NW,N/B,12936,397226.9978,137184.6214
+-77.015224424426719,38.90521488978127,50,red_51,"http://mpdc.dc.gov/mpdc/cwp/view,a,1240,q,548257,mpdcNav_GID,1552,mpdcNav,|31885|.asp",3rd Street and New York Avenue NW,S/B,10958,398679.6695,137483.4418
