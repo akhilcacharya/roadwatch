@@ -34,7 +34,7 @@ wss.on('connection', function(ws){
 	ws.on("message", function(m){
 		var msg = JSON.parse(m); 
 		if(msg.from_watch){
-			TrafficIncidents.geoNear(msg.pos, {minDistance: metersToRadian(0.5), spherical:true}, function(err, results, stats){
+			TrafficIncidents.geoNear(msg.pos, {maxDistance: metersToRadian(1), spherical:true}, function(err, results, stats){
 				if(err){
 					var response = {
 						from_server: true, 
