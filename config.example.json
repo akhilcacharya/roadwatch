@@ -1,0 +1,8 @@
+{
+    "db": {
+        "username": "",
+        "password": "",
+        "path": "mongodb://",
+        "endpoint": ""
+    }
+}
